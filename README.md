@@ -1,12 +1,12 @@
 ## Projeto de Paradigmas de Promação
 
-Este projeto foi desenvolvido para praticar a Programação Orientada a Objetos (POO).
-Curso: Ciência da Computação
-Campus: Universidade Estadual da Paraíba Campus VII
-Disciplina: Paradigmas de Programação
-Docente: Lucas Henrique Oliveira de Araujo
+Este projeto foi desenvolvido para praticar a Programação Orientada a Objetos (POO).<br/>
+Curso: Ciência da Computação <br/>
+Campus: Universidade Estadual da Paraíba Campus VII <br/>
+Disciplina: Paradigmas de Programação <br/>
+Docente: Lucas Henrique Oliveira de Araujo <br/>
 
 ## Equipe
 
-José Antônio Ramos da Nóbrega
+José Antônio Ramos da Nóbrega <br/>
 Lucas de Sousa Bezerra
