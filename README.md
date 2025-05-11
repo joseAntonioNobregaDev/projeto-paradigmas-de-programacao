@@ -1,18 +1,12 @@
-## Getting Started
+## Projeto de Paradigmas de Promação
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto foi desenvolvido para praticar a Programação Orientada a Objetos (POO).
+Curso: Ciência da Computação
+Campus: Universidade Estadual da Paraíba Campus VII
+Disciplina: Paradigmas de Programação
+Docente: Lucas Henrique Oliveira de Araujo
 
-## Folder Structure
+## Equipe
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+José Antônio Ramos da Nóbrega
+Lucas de Sousa Bezerra
