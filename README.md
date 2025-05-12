@@ -1,4 +1,4 @@
-## Projeto de Paradigmas de Promação
+## Projeto de Paradigmas de Programação
 
 Este projeto foi desenvolvido para praticar a Programação Orientada a Objetos (POO).<br/>
 Curso: Ciência da Computação <br/>
